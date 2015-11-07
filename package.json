@@ -13,6 +13,11 @@
     "jade": "~1.9.2",
     "jquery": "^2.1.4",
     "morgan": "~1.5.3",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
     "serve-favicon": "~2.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
   }
 }
